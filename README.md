@@ -48,6 +48,16 @@ This project involves automating the data pipeline for the Telco customer churn 
 7. **Query with Amazon Athena**:
    - Use Amazon Athena to run SQL queries on the Glue Data Catalog.
 
+## Getting Started
+
+### Prerequisites
+
+- Ensure you have all required AWS services set up.
+- Install necessary Python packages:
+  ```bash
+  bash setup.sh
+  ```
+  
 ## Detailed Steps
 
 ### Step 1: Set Up Amazon S3 Bucket
