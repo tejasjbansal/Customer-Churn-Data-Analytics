@@ -102,4 +102,4 @@ This project involves automating the data pipeline for the Telco customer churn 
 
 By following these steps, you will have an automated data pipeline that ingests, processes, and visualizes data from the Telco Customer Churn dataset. This project demonstrates how to integrate various AWS services and tools to build a robust data engineering solution.
 
-For any questions or assistance, please refer to the documentation of the respective AWS services or reach out to the project supervisor.
+For any questions or assistance, please refer to the documentation of the respective AWS services or reach out to me.
